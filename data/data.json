@@ -1,0 +1,175 @@
+{
+  "symbols": [
+    {
+      "symbol": "SNAP",
+      "name": "Snap Inc.",
+      "id": 1
+    },
+    {
+      "symbol": "TWTR",
+      "name": "Twitter, Inc.",
+      "id": 2
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "id": 3
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "id": 4
+    },
+    {
+      "symbol": "CSCO",
+      "name": "Cisco Systems, Inc.",
+      "id": 5
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "id": 6
+    },
+    {
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "id": 7
+    },
+    {
+      "symbol": "FB",
+      "name": "Facebook Inc.",
+      "id": 8
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet A",
+      "id": 9
+    },
+    {
+      "symbol": "EA",
+      "name": "Electronic Arts Inc.",
+      "id": 10
+    }
+  ],
+  "favorites": [
+    {
+      "symbolId": 4,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "symbolId": 2,
+      "userId": 1,
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "email": "clara@example.com",
+      "password": "$2a$10$wG975yck.k1WHfAbj.h6FuiT7fzIz0aH4fWsNK2jXESGwEpBlFSw6",
+      "firstName": "Clara",
+      "lastName": "Example",
+      "photoUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "firstName": "cool",
+      "id": 4
+    },
+    [
+      {
+        "email": "abc@cde.com"
+      },
+      {
+        "firstName": "J"
+      },
+      {
+        "lastName": "C"
+      },
+      {
+        "password": "abc"
+      },
+      {
+        "password2": "abc"
+      }
+    ],
+    {
+      "email": "abc@cde.com",
+      "firstName": "J",
+      "lastName": "Cs",
+      "password": "abc",
+      "password2": "abc",
+      "id": 6
+    },
+    {
+      "email": "sdf@pntr.ed",
+      "firstName": "sdf",
+      "lastName": "sdf",
+      "password": "sdf",
+      "password2": "dsf",
+      "id": 7
+    },
+    {
+      "email": "sdf@sdf.com",
+      "firstName": "sdf",
+      "lastName": "ccc",
+      "password": {
+        "words": [
+          -474954686, -1728308204, -1694763832, -1720731356, 665731556,
+          1687917388, -1533699813, 2018687061
+        ],
+        "sigBytes": 32
+      },
+      "password2": {
+        "words": [
+          -474954686, -1728308204, -1694763832, -1720731356, 665731556,
+          1687917388, -1533699813, 2018687061
+        ],
+        "sigBytes": 32
+      },
+      "id": 8
+    },
+    {
+      "email": "jc@pntr.eu",
+      "firstName": "abc",
+      "lastName": "add",
+      "password": "lll",
+      "id": 9
+    },
+    {
+      "email": "jc@test.com",
+      "password": "$2a$10$nKs3x49g9VG9MV8v.VuFEOFIxvyKqZIalOOxaifol9267KIsadB.a",
+      "username": "jc",
+      "id": 10
+    },
+    {
+      "email": "test@email.com",
+      "password": "$2a$10$qan0mWbLrp7hzSKGiyFmReYzWEiF7M1luP3vLgIBFbHo7p36y0ls2",
+      "username": "test name",
+      "id": 11
+    },
+    {
+      "email": "safd@pnt.sl",
+      "password": "$2a$10$VWKfgZZkR9JtIHMyJUA/I.ZWh.sSHev7yS6rQUITGDRJhSyqfRICq",
+      "username": "laksdf",
+      "id": 12
+    },
+    {
+      "email": "test2@email.com",
+      "password": "$2a$10$YvGalngJOImFylC9ARpLAOp1UUiNvijqWGjmT6h1YGJtd95Su5i/2",
+      "id": 13
+    },
+    {
+      "email": "janko@gmail.com",
+      "password": "$2a$10$EDq51z88Z.j7/279L0rzv.6i5AK74vm2QMbe7KzGy9FDa.3oujsMi",
+      "username": "Janko",
+      "id": 14
+    }
+  ]
+}

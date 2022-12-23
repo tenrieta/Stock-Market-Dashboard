@@ -1,0 +1,177 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SNAPSHOT TESTS Profile snapshot renders 1`] = `
+<div
+  className="container"
+>
+  <div
+    className="justify-content-md-center row"
+  >
+    <div
+      className="col-lg-6 col-md-10 mx-auto col"
+    >
+      <div
+        className="mb-4 card"
+      >
+        <div
+          className="card-body"
+        >
+          <h2
+            className="text-center mb-4"
+            id="profile"
+          >
+            Update Profile
+          </h2>
+          <form
+            className=""
+            noValidate={true}
+            onSubmit={[Function]}
+          >
+            <div
+              className="mb-3"
+            >
+              <label
+                className="form-label"
+              >
+                Email
+              </label>
+              <input
+                className="form-control"
+                id="email"
+                name="email"
+                onChange={[Function]}
+                required={true}
+                type="email"
+                value="jest@example.com"
+              />
+            </div>
+            <div
+              className="mb-3"
+            >
+              <label
+                className="form-label"
+              >
+                Display Name
+              </label>
+              <input
+                className="form-control"
+                id="displayName"
+                name="displayName"
+                onChange={[Function]}
+                required={true}
+                type="text"
+                value=""
+              />
+            </div>
+            <div
+              className="mb-3"
+            >
+              <label
+                className="form-label"
+              >
+                Photo URL
+              </label>
+              <input
+                className="form-control"
+                id="photoURL"
+                name="photoURL"
+                onChange={[Function]}
+                type="text"
+                value=""
+              />
+            </div>
+            <div
+              className="mb-3"
+            >
+              <label
+                className="form-label"
+              >
+                Password
+              </label>
+              <input
+                className="form-control"
+                id="newPassword1"
+                name="newPassword1"
+                onChange={[Function]}
+                placeholder="Leave blank to keep the same"
+                type="password"
+                value=""
+              />
+            </div>
+            <div
+              className="mb-3"
+            >
+              <label
+                className="form-label"
+              >
+                Password Confirmation
+              </label>
+              <input
+                className="form-control"
+                id="newPassword2"
+                name="newPassword2"
+                onChange={[Function]}
+                placeholder="Leave blank to keep the same"
+                type="password"
+                value=""
+              />
+            </div>
+            <p
+              className="text-center fs-4 mb-3"
+            >
+              Ready to update your profile?
+            </p>
+            <p
+              className="text-center mb-3"
+            >
+              To save changes, please verify your old password.
+            </p>
+            <div
+              className="mb-3 input-group"
+            >
+              <input
+                className="form-control"
+                id="oldPassword"
+                name="oldPassword"
+                onChange={[Function]}
+                placeholder="Your old password"
+                required={true}
+                role="textbox"
+                title="oldPassword"
+                type="password"
+                value=""
+              />
+              <button
+                className="btn btn-primary"
+                disabled={true}
+                id="submit-button"
+                type="submit"
+              >
+                Update your profile
+              </button>
+            </div>
+          </form>
+          <div
+            className="text-center mb-3"
+          >
+            <div
+              className="fs-4 mb-3"
+            >
+              Ready to leave?
+            </div>
+            <button
+              className="btn btn-outline-secondary"
+              disabled={false}
+              id="sign-out"
+              onClick={[Function]}
+              type="button"
+            >
+              Sign out
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

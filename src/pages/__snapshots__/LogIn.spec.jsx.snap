@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SNAPSHOT TESTS SignUp snapshot renders 1`] = `
+<div
+  className="container"
+>
+  <div
+    className="justify-content-md-center row"
+  >
+    <div
+      className="col-lg-6 col-md-10 mx-auto col"
+    >
+      <div
+        className="mb-4 card"
+      >
+        <div
+          className="card-body"
+        >
+          <h2
+            className="text-center mb-4"
+          >
+            Log In
+          </h2>
+          <form
+            className=""
+            noValidate={true}
+            onSubmit={[Function]}
+          >
+            <div
+              className="mb-3"
+            >
+              <label
+                className="form-label"
+                htmlFor="email"
+              >
+                Email
+              </label>
+              <input
+                className="form-control"
+                id="email"
+                name="email"
+                onChange={[Function]}
+                required={true}
+                type="email"
+                value=""
+              />
+            </div>
+            <div
+              className="mb-3"
+            >
+              <label
+                className="form-label"
+                htmlFor="password"
+              >
+                Password
+              </label>
+              <input
+                className="form-control"
+                id="password"
+                name="password"
+                onChange={[Function]}
+                type="password"
+                value=""
+              />
+            </div>
+            <div
+              className="text-center"
+            >
+              <button
+                className="btn btn-primary"
+                disabled={true}
+                id="submit"
+                name="submit"
+                type="submit"
+              >
+                Log In
+              </button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
